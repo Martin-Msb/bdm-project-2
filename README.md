@@ -1,6 +1,5 @@
 # bdm-project-2
 
-%md
 ### Publications Knowledge Graph (KG)
 
 * Considering previous preprocessing, our entities shall become our nodes/vertices, **v**, and must  contain the **id** column
